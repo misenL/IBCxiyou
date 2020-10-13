@@ -1,0 +1,71 @@
+{
+	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+		{
+			"path": "pages/index/index",
+			"style" : {}
+		}
+	    ,{
+            "path" : "pages/homePage/homePage",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/orePage/orePage",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/tradePage/tradePage",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/dropInfo/dropInfo",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/abandonMine/abandonMine",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/userCenter/userCenter",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/login/login",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/settingPayPass/settingPayPass",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/myInvitation/myInvitation",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/register/register",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/userAgreement/userAgreement",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/ImproveInfo/ImproveInfo",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/noticeInfo/noticeInfo",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/aboutWe/aboutWe",
+            "style" : {}
+        }
+    ],
+	"globalStyle": {
+		"navigationBarTextStyle": "white",
+		"navigationBarTitleText": "",
+		"navigationStyle": "custom"
+		// "navigationBarBackgroundColor": "#F8F8F8",
+		// "backgroundColor": "#F8F8F8"
+	}
+}
