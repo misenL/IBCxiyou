@@ -1,6 +1,6 @@
 
 // const BASE_URL = 'http://pomelo.test/api/'
-const BASE_URL = 'http://admin.5cstar.com/api/'
+const BASE_URL = 'https://admin.5cstar.com/api/'
 
 export const MR = (options)=>{
 	return new Promise((resolve,reject)=>{
